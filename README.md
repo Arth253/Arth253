@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🧑‍💻 I am a Computer Science studnet at University of Nottingham
+
+- 🏎️ Currently I am on my placement at JLR as a Software Engineer 
+
+- 📖 Visit my profile on [Linkedin](https://www.linkedin.com/in/arth-gandhi-/)
+
 <!--
 **Arth253/Arth253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
