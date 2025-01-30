@@ -1,10 +1,33 @@
 ## Hi there 👋
 
-- 🧑‍💻 I am a Computer Science studnet at University of Nottingham
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🏎️ Currently I am on my placement at JLR as a Software Engineer 
 
-- 📖 Visit my profile on [Linkedin](https://www.linkedin.com/in/arth-gandhi-/)
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Arth"
+        self.role = "Software Engineer at JLR"
+        self.university = "University of Nottingham"
+        self.course = "Computer Science"
+        self.currentProjects = "Path planning developer for Formula Student:AI"
+        self.interests = ["Running", "Biking", "Golf", "Hiking"]
+        
+
+    def greeting(self):
+        print("Thanks for dropping by, hope you find some of my work interesting :) ")
+
+
+me = SoftwareEngineer()
+me.greeting()
+```
+
+## 📖 Contact
+
+Visit my profile on [Linkedin](https://www.linkedin.com/in/arth-gandhi-/)
+
 
 <!--
 **Arth253/Arth253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
