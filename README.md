@@ -1,4 +1,4 @@
-## Hi there 👋
+![Arth's GitHub Banner](./assets/Github-Banner.JPG)
 
 ```python
 #!/usr/bin/python
