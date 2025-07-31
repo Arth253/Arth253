@@ -8,7 +8,7 @@ class Profile:
 
     def __init__(self):
         self.name = "Arth"
-        self.position = "Software Engineer at JLR"
+        self.position = "Software Engineer at Barclays"
         self.university = "University of Nottingham"
         self.course = "Computer Science"
         self.currentProjects = "Path planning developer for Formula Student:AI"
